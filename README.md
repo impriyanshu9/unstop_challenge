@@ -19,7 +19,7 @@
 
 ## How to run application
 
-- Download the project zip from the github [https://github.com/KunalPandharkar/Unstop-Challenge]
+- Download the project zip from the github [https://github.com/impriyanshu9/unstop_challenge.git]
 - Install all project dependencies by running command
 
 ```bash
@@ -72,5 +72,5 @@ my skills
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kunal-pandharkar-513994188)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-srivastava-63b059222/)
 
